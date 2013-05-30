@@ -1,0 +1,28 @@
+#
+# If you are not getting purencool.html htaccess is not 
+# working
+#
+DirectoryIndex /pnctests/purencool.html
+
+#
+# Testing to see if  404 is working
+#
+#ErrorDocument 404  /pncpages/404.php
+
+#
+# Testing to see if  500 is working
+#
+#ErrorDocument 500  "<H1>This is purencools 500 error</H1>"
+#<---- remove # to test 500 11212323rffjfjadfad--
+
+
+#
+# Test to see if rewrite engine is working 
+#
+#RewriteEngine On
+#RewriteRule (.*) http://purencool.com.au/$1 [R=301,L]
+
+
+
+
+

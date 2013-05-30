@@ -1,0 +1,1 @@
+<html><header><title>This is purencools 404 page</title></header><body><h1>This is purencools 404 page</h1></body></html>
